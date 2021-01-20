@@ -9,5 +9,11 @@ before_script:
 notifications:
   slack:
     on_success: always
+  email:
+    recipients:
+      - mertcan.akcay@pxl.student.be
+      - semih.sahin@pxl.student.be
+    on_success: always # default: change
+    on_failure: always # default: always
   
 
