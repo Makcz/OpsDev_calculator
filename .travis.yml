@@ -11,7 +11,7 @@ notifications:
     on_success: always
   email:
     recipients:
-      - mertcan.akcay@pxl.student.be
+      - 11700274@pxl.student.be
       - semih.sahin@pxl.student.be
     on_success: always # default: change
     on_failure: always # default: always
